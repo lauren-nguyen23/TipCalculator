@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_label">Bill</string>
+    <string name="tip_percent_label">Tip Percent</string>
+    <string name="bill_hint">Enter the bill total</string>
+    <string name="tip_percent_hint">Enter the tip percent</string>
+    <string name="calculate_btn_label">Calculate</string>
+    <string name="tip_amount_label">Tip Amount</string>
+    <string name="total_label">Total</string>
+    <string name="reset_btn_label">Tip Amount</string>
+    <string name="default_double">$0.00</string>
+    <string name="empty_string"></string>
+
+    <string name="empty_fields">Empty Field(s)</string>
+    <string name="dollar_sign">$</string>
+    <string name="welcome_toast">Welcome to my app!</string>
+</resources>
